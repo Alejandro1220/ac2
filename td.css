@@ -1,0 +1,21 @@
+        .cua{
+            position: absolute;
+            height: 300px;
+            width: 200px; 
+            background-color: #289AF2;
+            left: 500px; 
+            top: 50px;
+            font-size: 50px;
+            text-align: center;
+        }
+
+        .pe{
+            position: absolute;
+            height: 300px;
+            width: 200px; 
+            background-color: #9BC6E7;
+            left: 200px; 
+            top: 50px;
+            font-size: 50px;
+            text-align: center;
+        }
